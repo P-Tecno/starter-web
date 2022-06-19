@@ -1,0 +1,22 @@
+* [33m0be6375[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Adding instructions on how to contribute
+[31m|[m * [33mac7982f[m[33m ([m[1;32msimple-changes[m[33m)[m Adding team member to humans.txt
+[31m|[m[31m/[m  
+* [33md0509e0[m Adding copy notice to README
+* [33m860f366[m Adding copyright notice
+* [33m9996d7d[m Commiting changes
+* [33m5d8e244[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Updating repo with changes from compare section
+* [33m4be6a9b[m Adding introduction text
+* [33ma93e6be[m Adding description
+* [33mc3726ea[m Adding new section: Deployment
+* [33md6137b3[m Adding README file
+* [33m47d12bf[m Pemanent deletion
+* [33m2cfafa5[m renaming level1 file
+* [33m7e11065[m Adding several files recursively
+* [33m669e65a[m Adding more ipsum text
+* [33ma43a953[m My first Commit
+*   [33m4beb7f0[m Merge pull request #6 from jasongtaylor/feature-readme
+[33m|[m[34m\[m  
+[33m|[m * [33me73f914[m Adding Purpose section to README
+[33m|[m * [33m34f563b[m Adding README file
+[33m|[m[33m/[m  
+* [33m5c05047[m Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
